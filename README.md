@@ -1,5 +1,7 @@
-# awesome-charting
-> A curated list of of chart and dataviz resources that developers may find userful. Focused on JavaScript charting libraries for different uses. Ordered alphabetically by category.
+
+![](https://github.com/zingchart/awesome-charting/blob/media/assets/awesome-charting.png)
+
+A curated list of of chart and dataviz resources that developers may find userful. Focused on JavaScript charting libraries for different uses. Ordered alphabetically by category.
 
 *Inspired by the <a href="https://github.com/sindresorhus/awesome">Awesome</a> thing.*
 
