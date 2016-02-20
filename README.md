@@ -1,5 +1,5 @@
 
-![](https://github.com/zingchart/awesome-charting/blob/media/assets/awesome-charting.png)
+<img src="https://cdn.rawgit.com/zingchart/awesome-charting/media/assets/awesome-charting.svg" alt="awesome">
 
 A curated list of of chart and dataviz resources that developers may find userful. Focused on JavaScript charting libraries for different uses. Ordered alphabetically by category.
 
