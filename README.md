@@ -1,7 +1,7 @@
 
 <img src="https://cdn.rawgit.com/zingchart/awesome-charting/media/assets/awesome-charting.svg" alt="awesome">
 
-A curated list of of chart and dataviz resources that developers may find userful. Focused on JavaScript charting libraries for different uses. Ordered alphabetically by category.
+A curated list of of chart and dataviz resources that developers may find userful. Focused on relevant and currently active JavaScript charting libraries for different use cases. Ordered alphabetically in each category.
 
 *Inspired by the <a href="https://github.com/sindresorhus/awesome">Awesome</a> thing.*
 
@@ -36,6 +36,8 @@ A curated list of of chart and dataviz resources that developers may find userfu
 * [Plotly](https://github.com/plotly/plotly.jsplotly.js) - Built on top of d3 and stack.gl, allowing users to create basic charts and SVG maps.
 * [Plottable](https://github.com/palantir/plottable) - Library with OOP style syntax to build charts.
 * [rgraph](http://www.rgraph.net/) - 2D/3D javascript charts with google sheets import capabilites.
+* [sigma.js](https://github.com/jacomyal/sigma.js) - Graphs / Network diagram library built with canvas.
+* [TauCharts](https://www.taucharts.com/) - Unique syntax that lets the developer describe the data using DSL. Has the ability to create facets.
 
 ---
 
