@@ -1,7 +1,7 @@
 
 <img src="https://cdn.rawgit.com/zingchart/awesome-charting/media/assets/awesome-charting.svg" alt="awesome">
 
-A curated list of of chart and dataviz resources that developers may find userful. Focused on relevant and currently active JavaScript charting libraries for different use cases. Ordered alphabetically in each category.
+A curated list of chart and dataviz resources that developers may find userful. Focused on relevant and currently active JavaScript charting libraries for different use cases. Ordered alphabetically in each category.
 
 *Inspired by the <a href="https://github.com/sindresorhus/awesome">Awesome</a> thing.*
 
