@@ -1,0 +1,18 @@
+{
+  "name": "awesome-charting",
+  "version": "1.0.0",
+  "description": "A curated list of chart and dataviz resources that developers may find useful.",
+  "main": "README.md",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha ./test/readme.js"
+  },
+  "author": "ZingChart",
+  "license": "MIT",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  }
+}

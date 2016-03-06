@@ -1,11 +1,11 @@
 
 <img src="https://cdn.rawgit.com/zingchart/awesome-charting/media/assets/awesome-charting.svg" alt="awesome">
 
-A curated list of chart and dataviz resources that developers may find userful. Focused on relevant and currently active JavaScript charting libraries for different use cases. Ordered alphabetically in each category.
+A curated list of chart and dataviz resources that developers may find useful. Focused on relevant and currently active JavaScript charting libraries for different use cases. Ordered alphabetically in each category.
 
 *Inspired by the <a href="https://github.com/sindresorhus/awesome">Awesome</a> thing.*
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/zingchart/awesome-charting.svg?branch=master)](https://travis-ci.org/zingchart/awesome-charting)
 
 ## Table of Contents
 *  [Commercial Libraries](#commercial-libraries)
@@ -17,8 +17,8 @@ A curated list of chart and dataviz resources that developers may find userful. 
 ---
 
 ### Commercial Libraries
-* [AnyChart](http://www.anychart.com/) - Set of products for charting different types of data. Has a special Oracle Apex integration option.
 * [amCharts](https://www.amcharts.com/) - Three libraries for traditional charts, stock, and maps. Features a hand-drawn style theme option.
+* [AnyChart](http://www.anychart.com/) - Set of products for charting different types of data. Has a special Oracle Apex integration option.
 * [CanvasJS](http://canvasjs.com/) - A tight set of chart types in a library with a small file size. Different looking default theme than other commercial libraries.
 * [FusionCharts](http://www.fusioncharts.com/) - Charting library with a strong maps component.
 * [Highcharts](http://www.highcharts.com/) - A series of charting libraries for a variety of uses. Can be compatible back to IE6.
@@ -50,7 +50,7 @@ A curated list of chart and dataviz resources that developers may find userful. 
 
 ### Framework-Specific Libraries
 #### Angular
-* [Angular-Chart](http://jtblin.github.io/angular-chart.js/angular)- Simple API to render line, bar, area, and donut charts 
+* [Angular-Chart](http://jtblin.github.io/angular-chart.js/angular)- Simple API to render line, bar, area, and donut charts
 * [n3-charts](https://github.com/n3-charts/line-chart) - Easy to use library written with AngularJS, rendering charts with D3.
 
 #### Ember
@@ -69,7 +69,7 @@ A curated list of chart and dataviz resources that developers may find userful. 
 * [Dataviz Catalogue](http://datavizcatalogue.com) - A place to go when you're wondering which chart type is best. A project by Severino Ribecca.
 * [Evergreen Data](http://stephanieevergreen.com) - Information and opinions on presenting data more effectively.
 * [Flowing Data](http://flowingdata.com) - A resource on maps, visualizations, stats, and design by Nathan Yau, formerly of the New York Times.
-* [The Functional Art](http://www.thefunctionalart.com) - Noted data visualization author and professor Aberto Cairo's blog on dataviz trends and best practices.
 * [Junk Charts](http://junkcharts.typepad.com) - Dataviz critic (and Columbia professor) Kaiser Fung breaks down data visualizations to identify what is wrong and recommends ways to make them better.
+* [The Functional Art](http://www.thefunctionalart.com) - Noted data visualization author and professor Aberto Cairo's blog on dataviz trends and best practices.
 * [Visualizing Data](http://www.visualisingdata.com) - Dataviz consultant Andy Kirk compiles examples, resources, and reference materials on the subject of charting and visualization.
 * [Well Formed Data](http://well-formed-data.net/archives/1210/little-boxes) - Thought pieces on information visualization and design by Moritz Stefaner previously of the World Economic Forum.
