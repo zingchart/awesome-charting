@@ -50,7 +50,7 @@ A curated list of chart and dataviz resources that developers may find useful. F
 
 ### Framework-Specific Libraries
 #### Angular
-* [Angular-Chart](http://jtblin.github.io/angular-chart.js/angular)- Simple API to render line, bar, area, and donut charts
+* [Angular-Chart](http://jtblin.github.io/angular-chart.js)- Simple API to render line, bar, area, and donut charts
 * [n3-charts](https://github.com/n3-charts/line-chart) - Easy to use library written with AngularJS, rendering charts with D3.
 
 #### Ember
