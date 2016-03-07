@@ -34,7 +34,7 @@ A curated list of chart and dataviz resources that developers may find useful. F
 * [dc.js](https://dc-js.github.io/dc.js/) - D3 Library with [crossfilter](http://square.github.io/crossfilter/) support
 * [dygraphs](https://github.com/danvk/dygraphs) - Interactive zoomable time series charts.
 * [ECharts](https://github.com/ecomfe/echarts) - A powerful charting and visualization library for browser.
-* [Morris.js](http://morrisjs.github.io/morris.js/morris.js) - Simple API to render line, bar, area, and donut charts
+* [Morris.js](http://morrisjs.github.io/morris.js) - Simple API to render line, bar, area, and donut charts
 * [Plotly](https://github.com/plotly/plotly.js) - Built on top of d3 and stack.gl, allowing users to create basic charts and SVG maps.
 * [Plottable](https://github.com/palantir/plottable) - Library with OOP style syntax to build charts.
 * [rgraph](http://www.rgraph.net/) - 2D/3D javascript charts with google sheets import capabilites.
@@ -58,7 +58,7 @@ A curated list of chart and dataviz resources that developers may find useful. F
 
 #### jQuery
 * [Flot](http://www.flotcharts.org/) - A JavaScript charting library for jQuery. Contains useful chart types but looks like it may no longer be in active development.
-* [jqPlot](http://www.jqplot.com/jqPlot) - Open source jQuery plugin for drawing charts. Contains many commonly used features but may use different naming conventions for these items.
+* [jqPlot](http://www.jqplot.com) - Open source jQuery plugin for drawing charts. Contains many commonly used features but may use different naming conventions for these items.
 
 #### React
 * [react-d3](https://github.com/esbullington/react-d3) - Charting library that relies on React for generating SVG markup and d3 to calculate path values.
