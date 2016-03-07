@@ -61,7 +61,9 @@ A curated list of chart and dataviz resources that developers may find useful. F
 * [jqPlot](http://www.jqplot.com) - Open source jQuery plugin for drawing charts. Contains many commonly used features but may use different naming conventions for these items.
 
 #### React
+* [Formiddable](https://github.com/FormidableLabs/victory) - A collection of composable React components for building interactive data visualizations
 * [react-d3](https://github.com/esbullington/react-d3) - Charting library that relies on React for generating SVG markup and d3 to calculate path values.
+* [react-vis](https://github.com/uber-common/react-vis) - A collection of React components to render common data visualization charts
 
 ---
 
