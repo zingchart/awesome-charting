@@ -40,6 +40,7 @@ A curated list of chart and dataviz resources that developers may find useful. F
 * [rgraph](http://www.rgraph.net/) - 2D/3D javascript charts with google sheets import capabilites.
 * [sigma.js](https://github.com/jacomyal/sigma.js) - Graphs / Network diagram library built with canvas.
 * [TauCharts](https://www.taucharts.com/) - Unique syntax that lets the developer describe the data using DSL. Has the ability to create facets.
+* [vis.js](http://visjs.org/) - Network diagrams, descriptive timelines with labels, and has 3D graphs.
 
 ---
 
@@ -63,8 +64,8 @@ A curated list of chart and dataviz resources that developers may find useful. F
 #### React
 * [Formiddable](https://github.com/FormidableLabs/victory) - A collection of composable React components for building interactive data visualizations
 * [react-d3](https://github.com/esbullington/react-d3) - Charting library that relies on React for generating SVG markup and d3 to calculate path values.
-* [recharts](http://recharts.org) - Redefined chart library built with React and D3
 * [react-vis](https://github.com/uber-common/react-vis) - A collection of React components to render common data visualization charts
+* [recharts](http://recharts.org) - Redefined chart library built with React and D3
 
 ---
 
