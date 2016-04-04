@@ -43,6 +43,7 @@ A curated list of chart and dataviz resources that developers may find useful. F
 * [sigma.js](https://github.com/jacomyal/sigma.js) - Graphs / Network diagram library built with canvas.
 * [Smoothie Charts](https://github.com/joewalnes/smoothie) - JavaScript charts for realtime streaming data.
 * [TauCharts](https://www.taucharts.com/) - Unique syntax that lets the developer describe the data using DSL. Has the ability to create facets.
+* [uvCharts](https://github.com/imaginea/uvCharts) - JavaScript Charting library built using d3.js
 
 ---
 
