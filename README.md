@@ -39,6 +39,7 @@ A curated list of chart and dataviz resources that developers may find useful. F
 * [Plottable](https://github.com/palantir/plottable) - Library with OOP style syntax to build charts.
 * [rgraph](http://www.rgraph.net/) - 2D/3D javascript charts with google sheets import capabilites.
 * [sigma.js](https://github.com/jacomyal/sigma.js) - Graphs / Network diagram library built with canvas.
+* [Smoothie Charts](https://github.com/joewalnes/smoothie) - JavaScript charts for realtime streaming data.
 * [TauCharts](https://www.taucharts.com/) - Unique syntax that lets the developer describe the data using DSL. Has the ability to create facets.
 
 ---
