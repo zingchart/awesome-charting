@@ -7,16 +7,14 @@ A curated list of chart and dataviz resources that developers may find useful. F
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/zingchart/awesome-charting.svg?branch=master)](https://travis-ci.org/zingchart/awesome-charting)
 
-## Table of Contents
+**Table of Contents**
 *  [Commercial Libraries](#commercial-libraries)
 *  [Free and Open Source Libraries](#free-and-open-source-libraries)
 *  [Free Libraries](#free-libraries)
 *  [Framework-Specific Libraries](#framework-specific-libraries)
 *  [Data Visualization Resources](#data-visualization-resources)
 
----
-
-### Commercial Libraries
+## Commercial Libraries
 * [amCharts](https://www.amcharts.com/) - Three libraries for traditional charts, stock, and maps. Features a hand-drawn style theme option.
 * [AnyChart](http://www.anychart.com/) - Set of products for charting different types of data. Has a special Oracle Apex integration option.
 * [CanvasJS](http://canvasjs.com/) - A tight set of chart types in a library with a small file size. Different looking default theme than other commercial libraries.
@@ -24,9 +22,7 @@ A curated list of chart and dataviz resources that developers may find useful. F
 * [Highcharts](http://www.highcharts.com/) - A series of charting libraries for a variety of uses. Can be compatible back to IE6.
 * [ZingChart](http://www.zingchart.com) - Built to render large data sets other libraries can't handle. Super customizable styling and new features added often. Everything in one modular library.
 
----
-
-### Free and Open Source Libraries
+## Free and Open Source Libraries
 * [C3.js](http://c3js.org/) - D3 based reusable chart library.
 * [Chart.js](http://www.chartjs.org/) - Tiny library (11kb!) including core chart types.
 * [Chartist](https://gionkunz.github.io/chartist-js/) - Simple, lightweight chart library that uses SVG to render the chart, and CSS to style it.
@@ -47,34 +43,29 @@ A curated list of chart and dataviz resources that developers may find useful. F
 * [uvCharts](https://github.com/imaginea/uvCharts) - JavaScript Charting library built using d3.js
 * [vis.js](http://visjs.org/) - Network diagrams, descriptive timelines with labels, and has 3D graphs.
 
----
-
-### Free Libraries
+## Free Libraries
 * [Google Charts](https://developers.google.com/chart/) - Maps are dialed in (of course) and some cool animation options. Extensive docs and use community (forum).
 
----
-
-### Framework-Specific Libraries
-#### Angular
+## Framework-Specific Libraries
+### Angular
 * [Angular-Chart](http://jtblin.github.io/angular-chart.js)- Simple API to render line, bar, area, and donut charts
 * [n3-charts](https://github.com/n3-charts/line-chart) - Easy to use library written with AngularJS, rendering charts with D3.
 
-#### Ember
+### Ember
 * [Ember Charts](http://addepar.github.io/ember-charts/#/overview) - Five basic chart types ready to go in Ember.js projects.
 
-#### jQuery
+### jQuery
 * [Flot](http://www.flotcharts.org/) - A JavaScript charting library for jQuery. Contains useful chart types but looks like it may no longer be in active development.
 * [jqPlot](http://www.jqplot.com) - Open source jQuery plugin for drawing charts. Contains many commonly used features but may use different naming conventions for these items.
 
-#### React
+### React
 * [Formiddable](https://github.com/FormidableLabs/victory) - A collection of composable React components for building interactive data visualizations
 * [react-d3](https://github.com/esbullington/react-d3) - Charting library that relies on React for generating SVG markup and d3 to calculate path values.
 * [react-vis](https://github.com/uber-common/react-vis) - A collection of React components to render common data visualization charts
 * [recharts](http://recharts.org) - Redefined chart library built with React and D3
 
----
 
-### Data Visualization Resources
+## Data Visualization Resources
 * [Dataviz Catalogue](http://datavizcatalogue.com) - A place to go when you're wondering which chart type is best. A project by Severino Ribecca.
 * [Evergreen Data](http://stephanieevergreen.com) - Information and opinions on presenting data more effectively.
 * [Flowing Data](http://flowingdata.com) - A resource on maps, visualizations, stats, and design by Nathan Yau, formerly of the New York Times.
