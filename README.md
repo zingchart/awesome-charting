@@ -57,6 +57,7 @@ A curated list of chart and dataviz resources that developers may find useful. F
 ### jQuery
 * [Flot](http://www.flotcharts.org/) - A JavaScript charting library for jQuery. Contains useful chart types but looks like it may no longer be in active development.
 * [jqPlot](http://www.jqplot.com) - Open source jQuery plugin for drawing charts. Contains many commonly used features but may use different naming conventions for these items.
+* [jqxChart](http://www.jqwidgets.com/jquery-widgets-documentation/documentation/jqxchart/jquery-chart-getting-started.htm) - Plenty of chart types rendering in SVG, Canvas, and VML.
 
 ### React
 * [Formiddable](https://github.com/FormidableLabs/victory) - A collection of composable React components for building interactive data visualizations
