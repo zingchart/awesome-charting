@@ -50,6 +50,7 @@ A curated list of chart and dataviz resources that developers may find useful. F
 ### Angular
 * [Angular-Chart](http://jtblin.github.io/angular-chart.js)- Simple API to render line, bar, area, and donut charts
 * [n3-charts](https://github.com/n3-charts/line-chart) - Easy to use library written with AngularJS, rendering charts with D3.
+* [Angular-scale](https://github.com/kirillstepkin/scale) - Simple and lightweight library for creating line charts
 
 ### Ember
 * [Ember Charts](http://addepar.github.io/ember-charts/#/overview) - Five basic chart types ready to go in Ember.js projects.
@@ -58,6 +59,7 @@ A curated list of chart and dataviz resources that developers may find useful. F
 * [Flot](http://www.flotcharts.org/) - A JavaScript charting library for jQuery. Contains useful chart types but looks like it may no longer be in active development.
 * [jqPlot](http://www.jqplot.com) - Open source jQuery plugin for drawing charts. Contains many commonly used features but may use different naming conventions for these items.
 * [jqxChart](http://www.jqwidgets.com/jquery-widgets-documentation/documentation/jqxchart/jquery-chart-getting-started.htm) - Plenty of chart types rendering in SVG, Canvas, and VML.
+* [JQuery-linechart](https://github.com/kirillstepkin/jquery-linechart) - Simple and lightweight library for creating line charts
 
 ### React
 * [Formiddable](https://github.com/FormidableLabs/victory) - A collection of composable React components for building interactive data visualizations
