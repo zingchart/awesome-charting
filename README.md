@@ -62,7 +62,7 @@ A curated list of chart and dataviz resources that developers may find useful. F
 * [JQuery-linechart](https://github.com/kirillstepkin/jquery-linechart) - Simple and lightweight library for creating line charts
 
 ### React
-* [Formiddable](https://github.com/FormidableLabs/victory) - A collection of composable React components for building interactive data visualizations
+* [Victory](https://github.com/FormidableLabs/victory) - A collection of composable React components for building interactive data visualizations
 * [react-d3](https://github.com/esbullington/react-d3) - Charting library that relies on React for generating SVG markup and d3 to calculate path values.
 * [react-vis](https://github.com/uber-common/react-vis) - A collection of React components to render common data visualization charts
 * [recharts](http://recharts.org) - Redefined chart library built with React and D3
