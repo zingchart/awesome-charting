@@ -42,6 +42,7 @@ A curated list of chart and dataviz resources that developers may find useful. F
 * [TauCharts](https://www.taucharts.com/) - Unique syntax that lets the developer describe the data using DSL. Has the ability to create facets.
 * [uvCharts](https://github.com/imaginea/uvCharts) - JavaScript Charting library built using d3.js
 * [vis.js](http://visjs.org/) - Network diagrams, descriptive timelines with labels, and has 3D graphs.
+* [apexcharts.js](https://github.com/apexcharts/apexcharts.js) - A JavaScript Chart Library with simple API.
 
 ## Free Libraries
 * [Google Charts](https://developers.google.com/chart/) - Maps are dialed in (of course) and some cool animation options. Extensive docs and use community (forum).
