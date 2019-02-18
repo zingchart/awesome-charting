@@ -21,6 +21,7 @@ A curated list of chart and dataviz resources that developers may find useful. F
 * [FusionCharts](http://www.fusioncharts.com/) - Charting library with a strong maps component.
 * [Highcharts](http://www.highcharts.com/) - A series of charting libraries for a variety of uses. Can be compatible back to IE6.
 * [ZingChart](http://www.zingchart.com) - Built to render large data sets other libraries can't handle. Super customizable styling and new features added often. Everything in one modular library.
+* [JSCharting](https://JSCharting.com/) - Integrated suite of charting libraries with traditional types plus maps, stock, Gantt, grid and org charts in one package.
 
 ## Free and Open Source Libraries
 * [C3.js](http://c3js.org/) - D3 based reusable chart library.
