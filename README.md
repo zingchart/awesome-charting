@@ -20,6 +20,7 @@ A curated list of chart and dataviz resources that developers may find useful. F
 * [CanvasJS](http://canvasjs.com/) - A tight set of chart types in a library with a small file size. Different looking default theme than other commercial libraries.
 * [FusionCharts](http://www.fusioncharts.com/) - Charting library with a strong maps component.
 * [Highcharts](http://www.highcharts.com/) - A series of charting libraries for a variety of uses. Can be compatible back to IE6.
+* [Syncfusion Charts](https://www.syncfusion.com/angular-ui-components/angular-charts) - A robust package of 30+ Chart types with incomparable performance. More interactive and mobile-friendly charts with elegant animations. Works well on all major web frameworks – [JavaScript](https://www.syncfusion.com/javascript-ui-controls/javascript-charts), [Angular](https://www.syncfusion.com/angular-ui-components/angular-charts), [React](https://www.syncfusion.com/react-ui-components/react-charts) and [Vue](https://www.syncfusion.com/vue-ui-components/vue-charts).
 * [ZingChart](http://www.zingchart.com) - Built to render large data sets other libraries can't handle. Super customizable styling and new features added often. Everything in one modular library.
 
 ## Free and Open Source Libraries
