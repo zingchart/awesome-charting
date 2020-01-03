@@ -63,6 +63,7 @@ A curated list of chart and dataviz resources that developers may find useful. F
 
 ### React
 * [Formiddable](https://github.com/FormidableLabs/victory) - A collection of composable React components for building interactive data visualizations
+* [react-chart-js](https://github.com/jerairrest/react-chartjs-2) - React wrapper for Chart.js
 * [Potion](http://numberpicture.com/build) - Low-level building blocks for constructing animated visualizations with React & D3.
 * [react-d3](https://github.com/esbullington/react-d3) - Charting library that relies on React for generating SVG markup and d3 to calculate path values.
 * [react-vis](https://github.com/uber-common/react-vis) - A collection of React components to render common data visualization charts
