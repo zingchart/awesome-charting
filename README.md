@@ -67,6 +67,8 @@ A curated list of chart and dataviz resources that developers may find useful. F
 
 ### React
 * [nivo](https://github.com/plouc/nivo) - React components to easily build dataviz apps, built on top of D3.
+* [react-vis](https://github.com/uber/react-vis) - a composable visualization system by Uber
+* [vx](https://vx-demo.now.sh/) collection of reusable low-level visualization components, on top of d3
 * [Potion](http://numberpicture.com/build) - Low-level building blocks for constructing animated visualizations with React & D3.
 * [react-chart-js](https://github.com/jerairrest/react-chartjs-2) - React wrapper for Chart.js
 * [react-d3](https://github.com/esbullington/react-d3) - Charting library that relies on React for generating SVG markup and d3 to calculate path values.
