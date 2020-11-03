@@ -65,6 +65,9 @@ A curated list of chart and dataviz resources that developers may find useful. F
 * [jqxChart](http://www.jqwidgets.com/jquery-widgets-documentation/documentation/jqxchart/jquery-chart-getting-started.htm) - Plenty of chart types rendering in SVG, Canvas, and VML.
 * [JQuery-linechart](https://github.com/kirillstepkin/jquery-linechart) - Simple and lightweight library for creating line charts
 
+### Lit-html
+* [lit-line](https://github.com/apinet/lit-line) - {fast, small, interactive, fully responsive} Line Chart web component build on top of lit-html.
+
 ### React
 * [nivo](https://github.com/plouc/nivo) - React components to easily build dataviz apps, built on top of D3.
 * [Potion](http://numberpicture.com/build) - Low-level building blocks for constructing animated visualizations with React & D3.
