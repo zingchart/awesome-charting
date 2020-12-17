@@ -28,6 +28,7 @@ A curated list of chart and dataviz resources that developers may find useful. F
 * [Billboard.js](https://naver.github.io/billboard.js/) - a fork of C3 that tracks D3 releases more closely.
 * [C3.js](http://c3js.org/) - D3 based reusable chart library.
 * [Chart.js](http://www.chartjs.org/) - Tiny library (11kb!) including core chart types.
+* [Charts.css](https://chartscss.org/) - CSS data visualization framework.
 * [Chartist](https://gionkunz.github.io/chartist-js/) - Simple, lightweight chart library that uses SVG to render the chart, and CSS to style it.
 * [Chartkick](https://github.com/ankane/chartkick) - JavaScript charts with one line of Ruby.
 * [D3.js](https://d3js.org/) - Allows the user to manipulate documents based on data to render charts in SVG.
