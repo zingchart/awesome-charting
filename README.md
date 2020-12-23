@@ -48,6 +48,8 @@ A curated list of chart and dataviz resources that developers may find useful. F
 * [μPlot](https://github.com/leeoniya/uPlot) - A small (< 25 KB min), fast chart for time series, lines, areas, ohlc & bars.
 * [uvCharts](https://github.com/imaginea/uvCharts) - JavaScript Charting library built using d3.js
 * [vis.js](http://visjs.org/) - Network diagrams, descriptive timelines with labels, and has 3D graphs.
+* [reaviz](https://reaviz.io) - Modular chart component library for React.
+* [reaflow](https://reaflow.dev) - Modular diagram engine for build static or interactive editors. 
 
 ## Free Libraries
 * [Google Charts](https://developers.google.com/chart/) - Maps are dialed in (of course) and some cool animation options. Extensive docs and use community (forum).
