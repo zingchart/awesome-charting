@@ -44,6 +44,7 @@ A declarative, efficient, and simple JavaScript library for building responsive 
 * [dygraphs](https://github.com/danvk/dygraphs) - Interactive zoomable time series charts.
 * [ECharts](https://github.com/ecomfe/echarts) - A powerful charting and visualization library for browser.
 * [EJSChart](https://github.com/EmpriseCorporation/EJSCharts) - enterprise ready charting library.
+* [Frappe Charts](https://github.com/frappe/charts) - Lightweight, Modern, Open Source SVG Charts built for the web
 * [Graphosaurus](https://github.com/frewsxcv/graphosaurus) - 3D graph viewer powered by WebGL (three.js)
 * [lightweight-charts](https://github.com/tradingview/lightweight-charts) - Financial lightweight charts built with HTML5 canvas
 * [Morris.js](http://morrisjs.github.io/morris.js) - Simple API to render line, bar, area, and donut charts
