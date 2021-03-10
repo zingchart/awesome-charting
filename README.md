@@ -39,6 +39,7 @@ A declarative, efficient, and simple JavaScript library for building responsive 
 * [Charts.css](https://chartscss.org/) - CSS data visualization framework.
 * [Chartist](https://gionkunz.github.io/chartist-js/) - Simple, lightweight chart library that uses SVG to render the chart, and CSS to style it.
 * [Chartkick](https://github.com/ankane/chartkick) - JavaScript charts with one line of Ruby.
+* [d2b.js](http://www.d2bjs.org/) - Reusable chart library, using D3 v4+ and including support for axis, pie, sankey, sunburst charts and more.
 * [D3.js](https://d3js.org/) - Allows the user to manipulate documents based on data to render charts in SVG.
 * [dc.js](https://dc-js.github.io/dc.js/) - D3 Library with [crossfilter](http://square.github.io/crossfilter/) support
 * [dygraphs](https://github.com/danvk/dygraphs) - Interactive zoomable time series charts.
