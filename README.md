@@ -52,6 +52,7 @@ A declarative, efficient, and simple JavaScript library for building responsive 
 * [QuickChart](https://github.com/typpo/quickchart) - Web API that renders static chart images.
 * [rgraph](http://www.rgraph.net/) - 2D/3D javascript charts with google sheets import capabilites.
 * [sigma.js](https://github.com/jacomyal/sigma.js) - Graphs / Network diagram library built with canvas.
+* [SigPlot](https://github.com/lgsinnovations/sigplot) - Canvas-based fast interactive web-plotting for software defined radio (SDR) and digital signal processing (DSP).
 * [Smoothie Charts](https://github.com/joewalnes/smoothie) - JavaScript charts for realtime streaming data.
 * [TauCharts](https://www.taucharts.com/) - Unique syntax that lets the developer describe the data using DSL. Has the ability to create facets.
 * [μPlot](https://github.com/leeoniya/uPlot) - A small (< 25 KB min), fast chart for time series, lines, areas, ohlc & bars.
@@ -89,6 +90,7 @@ A declarative, efficient, and simple JavaScript library for building responsive 
 * [react-chart-js](https://github.com/jerairrest/react-chartjs-2) - React wrapper for Chart.js
 * [react-d3](https://github.com/esbullington/react-d3) - Charting library that relies on React for generating SVG markup and d3 to calculate path values.
 * [react-muze](https://github.com/chartshq/react-muze) - React wrapper for [muze](https://muzejs.org/) (free data visualization library for creating exploratory data visualizations in browser, using WebAssembly)
+* [react-sigplot](https://github.com/lgsinnovations/react-sigplot) - React wrapper for [SigPlot](https://github.com/lgsinnovations/sigplot) (fast interactive web-plotting for software defined radio and digital signal processing)
 * [react-vis](https://github.com/uber-common/react-vis) - A collection of React components to render common data visualization charts
 * [recharts](http://recharts.org) - Redefined chart library built with React and D3
 * [Victory](https://github.com/FormidableLabs/victory) - A collection of composable React components for building interactive data visualizations
