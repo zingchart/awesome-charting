@@ -59,6 +59,7 @@ A declarative, efficient, and simple JavaScript library for building responsive 
 * [vis.js](http://visjs.org/) - Network diagrams, descriptive timelines with labels, and has 3D graphs.
 * [reaviz](https://reaviz.io) - Modular chart component library for React.
 * [reaflow](https://reaflow.dev) - Modular diagram engine for build static or interactive editors. 
+* [vizzu](https://github.com/vizzuhq/vizzu-lib) - Library for animated data visualizations and data stories.
 
 ## Free Libraries
 * [Google Charts](https://developers.google.com/chart/) - Maps are dialed in (of course) and some cool animation options. Extensive docs and use community (forum).
