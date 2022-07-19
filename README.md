@@ -45,6 +45,7 @@ A declarative, efficient, and simple JavaScript library for building responsive 
 * [ECharts](https://github.com/ecomfe/echarts) - A powerful charting and visualization library for browser.
 * [EJSChart](https://github.com/EmpriseCorporation/EJSCharts) - enterprise ready charting library.
 * [Graphosaurus](https://github.com/frewsxcv/graphosaurus) - 3D graph viewer powered by WebGL (three.js)
+* [KLineChart](https://klinecharts.com) - Lightweight k-line chart that can be highly customized.
 * [lightweight-charts](https://github.com/tradingview/lightweight-charts) - Financial lightweight charts built with HTML5 canvas
 * [Morris.js](http://morrisjs.github.io/morris.js) - Simple API to render line, bar, area, and donut charts
 * [Plotly](https://github.com/plotly/plotly.js) - Built on top of d3 and stack.gl, allowing users to create basic charts and SVG maps.
