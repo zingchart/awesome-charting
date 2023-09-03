@@ -80,6 +80,7 @@ A declarative, efficient, and simple JavaScript library for building responsive 
 
 ### Lit-html
 * [lit-line](https://github.com/apinet/lit-line) - {fast, small, interactive, fully responsive} Line Chart web component build on top of lit-html.
+* [TrendChart Elements](https://github.com/WebLogin/trendchart-elements) - Components to generate simple, light and responsive charts.
 
 ### React
 * [nivo](https://github.com/plouc/nivo) - React components to easily build dataviz apps, built on top of D3.
