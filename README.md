@@ -92,6 +92,7 @@ A declarative, efficient, and simple JavaScript library for building responsive 
 * [react-vis](https://github.com/uber-common/react-vis) - A collection of React components to render common data visualization charts
 * [recharts](http://recharts.org) - Redefined chart library built with React and D3
 * [Victory](https://github.com/FormidableLabs/victory) - A collection of composable React components for building interactive data visualizations
+* [Tremor](https://tremor.so) - React components to build charts and dashboards
 
 ## Data Visualization Resources
 * [Dataviz Catalogue](http://datavizcatalogue.com) - A place to go when you're wondering which chart type is best. A project by Severino Ribecca.
