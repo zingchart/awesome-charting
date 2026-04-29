@@ -30,6 +30,7 @@ A declarative, efficient, and simple JavaScript library for building responsive 
 * [JSCharting](https://JSCharting.com/) - Integrated suite of charting libraries with traditional charts types plus maps, stock, Gantt, grid and org charts in one package.
 * [Kendo UI](https://www.telerik.com/kendo-ui) - Premium charting library with native UI components available for Angular, React, and Vue.
 * [ZingChart](http://www.zingchart.com) - Built to render large data sets other libraries can't handle. Super customizable styling and new features added often. Everything in one modular library.
+* [DXcharts advanced](https://devexperts.com/dxcharts/) - Enterprise-grade financial charting solution with advanced indicators and drawing tools.
 
 ## Free and Open Source Libraries
 * [apexcharts.js](https://github.com/apexcharts/apexcharts.js) - A JavaScript Chart Library with simple API.
@@ -58,7 +59,8 @@ A declarative, efficient, and simple JavaScript library for building responsive 
 * [uvCharts](https://github.com/imaginea/uvCharts) - JavaScript Charting library built using d3.js
 * [vis.js](http://visjs.org/) - Network diagrams, descriptive timelines with labels, and has 3D graphs.
 * [reaviz](https://reaviz.io) - Modular chart component library for React.
-* [reaflow](https://reaflow.dev) - Modular diagram engine for build static or interactive editors. 
+* [reaflow](https://reaflow.dev) - Modular diagram engine for build static or interactive editors.
+* [DXcharts-lite](https://github.com/devexperts/dxcharts-lite) - Flexible, open-source financial charting library based on HTML5 canvas.
 
 ## Free Libraries
 * [Google Charts](https://developers.google.com/chart/) - Maps are dialed in (of course) and some cool animation options. Extensive docs and use community (forum).
