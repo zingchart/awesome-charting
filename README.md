@@ -62,7 +62,6 @@ A declarative, efficient, and simple JavaScript library for building responsive 
 * [reaflow](https://reaflow.dev) - Modular diagram engine for build static or interactive editors.
 * [DXcharts-lite](https://github.com/devexperts/dxcharts-lite) - Flexible, open-source financial charting library based on HTML5 canvas.
 
-
 ## Free Libraries
 * [Google Charts](https://developers.google.com/chart/) - Maps are dialed in (of course) and some cool animation options. Extensive docs and use community (forum).
 
