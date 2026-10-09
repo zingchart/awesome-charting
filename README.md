@@ -41,6 +41,7 @@ A declarative, efficient, and simple JavaScript library for building responsive 
 * [Chartkick](https://github.com/ankane/chartkick) - JavaScript charts with one line of Ruby.
 * [D3.js](https://d3js.org/) - Allows the user to manipulate documents based on data to render charts in SVG.
 * [dc.js](https://dc-js.github.io/dc.js/) - D3 Library with [crossfilter](http://square.github.io/crossfilter/) support
+* [Depth](https://github.com/rekurt/depth) - Framework-agnostic canvas charts for cumulative order-book depth.
 * [dygraphs](https://github.com/danvk/dygraphs) - Interactive zoomable time series charts.
 * [ECharts](https://github.com/ecomfe/echarts) - A powerful charting and visualization library for browser.
 * [EJSChart](https://github.com/EmpriseCorporation/EJSCharts) - enterprise ready charting library.
