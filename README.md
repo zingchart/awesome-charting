@@ -47,6 +47,7 @@ A declarative, efficient, and simple JavaScript library for building responsive 
 * [Graphosaurus](https://github.com/frewsxcv/graphosaurus) - 3D graph viewer powered by WebGL (three.js)
 * [lightweight-charts](https://github.com/tradingview/lightweight-charts) - Financial lightweight charts built with HTML5 canvas
 * [Morris.js](http://morrisjs.github.io/morris.js) - Simple API to render line, bar, area, and donut charts
+* [OpenKline](https://github.com/rekurt/openkline) - Canvas-based financial candlestick charts with technical indicators and drawing tools.
 * [Plotly](https://github.com/plotly/plotly.js) - Built on top of d3 and stack.gl, allowing users to create basic charts and SVG maps.
 * [Plottable](https://github.com/palantir/plottable) - Library with OOP style syntax to build charts.
 * [QuickChart](https://github.com/typpo/quickchart) - Web API that renders static chart images.
