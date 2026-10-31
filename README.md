@@ -50,6 +50,7 @@ A declarative, efficient, and simple JavaScript library for building responsive 
 * [Plotly](https://github.com/plotly/plotly.js) - Built on top of d3 and stack.gl, allowing users to create basic charts and SVG maps.
 * [Plottable](https://github.com/palantir/plottable) - Library with OOP style syntax to build charts.
 * [QuickChart](https://github.com/typpo/quickchart) - Web API that renders static chart images.
+* [Quotelinks Stock Charts](https://github.com/quotelinks/stock-charts) - Zero-dependency SVG stock charts (analyst targets, ratings, price, dividends, EPS) rendered from your JSON.
 * [rgraph](http://www.rgraph.net/) - 2D/3D javascript charts with google sheets import capabilites.
 * [sigma.js](https://github.com/jacomyal/sigma.js) - Graphs / Network diagram library built with canvas.
 * [Smoothie Charts](https://github.com/joewalnes/smoothie) - JavaScript charts for realtime streaming data.
